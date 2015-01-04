@@ -27,21 +27,20 @@ casks=(
   codekit
   expandrive
   firefox
-  firefox-aurora
   flash
   github
+  google-chrome
+  google-chrome-canary
   hipchat
   iterm2
   handbrake
-  google-chrome
-  google-chrome-canary
   openemu-experimental
   psequel
   rdio
   sequel-pro
   sublime-text3
+  the-unarchiver
   transmission
-  unarchiver
   vagrant
   vagrant-manager
   virtualbox
