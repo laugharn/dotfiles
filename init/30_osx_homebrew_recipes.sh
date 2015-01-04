@@ -21,9 +21,9 @@ recipes=(
   python
   wget
   # php stuff
-  composer
   php56
   php56-mcrypt
+  composer
 )
 
 brew_install_recipes
